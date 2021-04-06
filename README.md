@@ -11,11 +11,11 @@
 
 ##### Wiring
 
-![img](./at_bb.png)
+<img src="./at_bb.png" width="80%" height="80%">
 
 #### Software
 * [Arduino IDE](https://www.arduino.cc/en/software/)
-*
+* clone this repo
 
 #### Steps
 
