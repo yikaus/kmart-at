@@ -15,7 +15,8 @@
 
 #### Software
 * [Arduino IDE](https://www.arduino.cc/en/software/)
-* clone this repo
+* https://github.com/vincasmiliunas/ESP32-Arduino-TB6612FNG
+* https://github.com/jvpernis/esp32-ps3
 
 #### Steps
 
